@@ -11,7 +11,7 @@ $ treb7uchet
 PartA &fras "01.txt"
 
 Numbers ← ⍉ ⇌⊟+1⇡⧻. ⊜□ ≠@ . "one two three four five six seven eight nine"
-ReplaceNumber ← +@0+×-@0: ⊙: : ×⊔⊡1 ⊙⊙¬⊙.: ⌕⊔⊢ ,:⊙:⊙⊙.
+ReplaceNumber ← ⍜(-@0)(+×): ⊙: : ×⊔⊡1 ⊙⊙¬⊙.: ⌕⊔⊢ ,:⊙:⊙⊙.
 
 ---
 Test ← "eightwo"
