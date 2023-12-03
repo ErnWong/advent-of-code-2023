@@ -21,7 +21,7 @@ ReplaceNumber [□ "eight" □ 8]
 ⍤ "ReplaceNumber" ≍ "8igh2wo"
 ---
 
-PartB ← ⊙; PartA ∧(ReplaceNumber) Numbers .
+PartB ← PartA ⊙; ∧(ReplaceNumber) Numbers .
 
 ---
 $ two1nine
